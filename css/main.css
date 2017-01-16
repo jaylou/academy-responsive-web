@@ -1,7 +1,1 @@
-[v-cloak] {
-  display: none;
-}
-
-body {
-  font-family: 'Overpass', sans-serif;
-}
+[v-cloak]{display:none}body{font-family:Overpass,sans-serif;margin:0;padding:0}h1{background-color:orange;color:#fff;margin-top:0;padding:10px 20px}@media screen and (min-width:960px){body{max-width:918px;margin:10px auto 20px;border:1px solid orange}h1{font-size:42px}}.content{padding:0 20px 20px}.content .content-footer{margin-top:10px;border:1px solid orange}ul{margin:0;padding:0;list-style-type:none}ul li{border:1px solid orange;border-bottom-width:0;padding:18px}ul li:last-child{border-bottom-width:1px}ul li:hover{background-color:#ffedcc}ul li h3{margin-top:0}
